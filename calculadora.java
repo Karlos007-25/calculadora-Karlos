@@ -2,6 +2,7 @@
 * Calculadora sencilla.
 * Proyecto de práctica de Git y GitHub.
 */
+Calculadora v2.0
 public class Calculadora {
  public static int sumar(int a, int b) {
  return a + b;
